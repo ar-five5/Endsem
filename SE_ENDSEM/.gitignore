@@ -1,2 +1,4 @@
 .claude-helper.log
 *.opdownload
+convert_to_pdf.ps1
+extract_slides.py
